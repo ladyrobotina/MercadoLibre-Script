@@ -21,7 +21,7 @@ Clone the code, you can see in your browser or in a file.
 
 ### `npm install`
 
-Runs de script but first install all the dependencies.
+Run script but first install all the dependencies.
 
 ### `run script`
 
