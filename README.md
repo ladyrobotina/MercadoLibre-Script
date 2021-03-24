@@ -4,7 +4,7 @@ Building this challenge
 
 ## 📱 Screenshot
 
-![melitxt](https://github.com/valerisvso/rick-and-morty-react/blob/master/valerisvso.github.io_rick-and-morty-react_.png)
+![melitxt](https://github.com/valerisvso/MercadoLibre-Script/blob/main/melitxt.jpg)
 
 
 ## 📚 Technical Details
