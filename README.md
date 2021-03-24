@@ -17,11 +17,11 @@ Javascript
 
 ## Getting Started 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clone the code, you can see in your browser or in a file.
 
 ### `npm install`
 
-Runs de script by install all the dependencies.
+Runs de script but first install all the dependencies.
 
 ### `run script`
 
