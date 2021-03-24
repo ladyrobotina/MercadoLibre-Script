@@ -1,3 +1,5 @@
+// const { info } = require('console');
+
 const tabla = document.querySelector("#res");
 
 function realizarPeticion () {
@@ -8,12 +10,13 @@ function realizarPeticion () {
         .then(data => {
             console.log(data.results)
             info = data.results.map(e => {
-                return `<tr><td>${e.id}</td><td>${e.title}</td><td>${e.category_id}</td><td>${e.domain_id}</td>`;
+                return `<tr><td>${e.id}</td><td>${e.title}</td><td>${e.category_id}</td><td>${e.condition}</td>`;
             }).join('');
-            console.log(info)
+            //console.log(info)
             res.innerHTML = info;
         
         
  })
+    
 };
 realizarPeticion();
